@@ -1,0 +1,8 @@
+motd:
+  lookup:
+    text: |
+      motd line 1
+      some people were here to learn salt
+      one is a workaholic
+        one says:
+      hi all
