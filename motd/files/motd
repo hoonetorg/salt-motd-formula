@@ -1,0 +1,4 @@
+{#- from "motd/map.jinja" import motd with context -#}
+static text:
+{{motd.text|default('i hv no motd') }}
+{{ grains['os']}}
